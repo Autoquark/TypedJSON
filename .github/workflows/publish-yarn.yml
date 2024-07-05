@@ -2,7 +2,7 @@ name: Release to NPM
 
 on:
   release:
-    types: [released]
+    types: [created]
 
 jobs:
   release:
