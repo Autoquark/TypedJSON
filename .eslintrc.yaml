@@ -37,7 +37,7 @@ overrides:
       jasmine/missing-expect: error
       jasmine/named-spy: off # We might consider this
       jasmine/no-assign-spyon: error
-      jasmine/no-describe-variables: error
+      jasmine/no-describe-variables: warn
       jasmine/no-disabled-tests: error
       jasmine/no-expect-in-setup-teardown: error
       jasmine/no-focused-tests: error
@@ -51,6 +51,7 @@ overrides:
       jasmine/no-suite-dupes: error
       jasmine/no-unsafe-spy: error
       jasmine/prefer-jasmine-matcher: error
+      import/order: warn
 
   -
     files:
