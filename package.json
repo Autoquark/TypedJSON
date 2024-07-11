@@ -1,6 +1,6 @@
 {
   "name": "typedjson-aq",
-  "version": "1.9.0",
+  "version": "1.9.0-pre4",
   "description": "Typed JSON parsing and serializing for TypeScript that preserves type information, using decorators. Parse JSON into actual class instances.",
   "main": "./lib/cjs/index.js",
   "module": "./lib/esm5/index.js",
